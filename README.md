@@ -1,2 +1,2 @@
-# trexcolor-
-a color trex pro😎
+# TrexColor
+Clase18
